@@ -1,0 +1,113 @@
+body {
+	background-color: #1A1A1A; 
+	background-image: url(baner.jpeg);
+	background-size: 1905px 700px;
+	background-repeat: no-repeat;
+}
+
+.main1 {
+	margin-top:700px;
+}
+
+a {
+	font-family: Arial Black,Arial Bold,Gadget,sans-serif; 
+	color: #E6E6E6;
+}
+
+.baner-text {
+	position: absolute;
+	font-size: 50px;
+	color: #E6E6E6;
+	margin-top: 150px;
+	margin-left:300px;
+}
+
+.info-pc {
+	position: absolute;
+	margin-top: 350px;
+	margin-left:300px;
+	color: #E6E6E6;
+	font-size: 20px;
+}
+
+.what-me {
+	margin-left:600px;
+	font-size: 40px;
+}
+
+.what-me1 {
+	margin-left:600px;
+	font-size: 20px;
+	padding-bottom:550px;
+}
+
+.what-me2 {
+	position: absolute;
+	margin-left:600px;
+	font-size: 15px;
+	margin-top:850px;
+	margin-left:1600px;
+}
+
+.email {
+	font-size:25px;
+	position: absolute;
+	color:#979797;
+	text-decoration: none;
+	margin-top:850px;
+	padding-bottom:20px;
+	margin-left:200px;
+}
+
+.img23 {
+	position: absolute;
+	margin-top:-20px;
+	margin-left:560px;
+}
+
+.me {
+	position: absolute;
+	margin-top: 700px;
+	margin-left: 800px;
+}
+
+.fun {
+	text-decoration: none;
+	position: absolute;
+	font-size: 30px;
+	margin-top:-30px;
+	margin-left: 800px;
+	color: #636363;
+}
+
+.fun2 {
+	position: absolute;
+	font-size:70px;
+	margin-top:-500px;
+	margin-left: 300px;
+}
+
+.text1 {
+	margin-left: 400px;
+	font-size:25px;
+}
+
+.fov {
+	float:left;
+	position: absolute;
+	margin-top: 100px;
+	padding-bottom:150px;
+}
+
+.funphoto {
+	margin-top:50px;
+	float:right;
+	margin-right:250px;
+}
+
+.bye {
+	position: absolute;
+	margin-top: 620px;
+	margin-left: 800px;
+	font-size: 35px;
+}
